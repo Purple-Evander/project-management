@@ -15,12 +15,14 @@ Components are made by functions for reusability.
 
   Create a new board(represents a new project) and this will be listed under Projects section in sidebar to left.
   In each project you get "Board", "List", "Timeline", "Table" view about all the tasks that is subject to the project.
-- Props of Tasks {
+
+  
+Props of Tasks {
     id, title, description, status, priority, tags, startDate, dueDate, points, projectId, authorUserId, assignedUserId, author, assignee,
   comments?: Comment[], attachments?: Attachments[]
   }
 
-- Props of Users {  userId, username, email, profilePictureUrl, teamId,  }
+ Props of Users {  userId, username, email, profilePictureUrl, teamId,  }
 
 
 interface can be found in client/src/state/api.ts 
