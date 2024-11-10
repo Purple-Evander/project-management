@@ -28,5 +28,3 @@ Most components are made by functions for reusability.
 Interface can be found in client/src/state/api.ts </br>
 DB schema can be found in server/prisma/schema.prisma
 
-  
-You can seed your own data from your pgAdmin4 
