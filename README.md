@@ -13,7 +13,7 @@ To run this prototype application,
   4. Type "npm run dev" through both terminal.
   5. Check http://localhost:8000 for server and http://localhost:3000 for client.
 
-Components are made by functions for reusability.
+Most components are made by functions for reusability.
 
   Create a new board(represents a new project) and this will be listed under Projects section in sidebar to left.
   In each project you get "Board", "List", "Timeline", "Table" view about all the tasks that is subject to the project.
