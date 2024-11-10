@@ -1,6 +1,6 @@
 Hey All! This is an attempt to create a project process management for within a small organization between teams, to coordinate and monitor tasks about their status and priority.
 
-Refer the PDF file attached to get visuals of running apllication. 
+Refer the Minianr.pdf file attached to get visuals of running apllication. 
 
 Made with cutting edge of tech stack that is NEXT JS 14 with NodeJS, Prisma ORM, Postgres for DB and tailwindCSS.
 
